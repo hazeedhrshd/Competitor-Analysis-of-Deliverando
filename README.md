@@ -17,8 +17,6 @@ The data cleaning and wrangling processes were conducted using Python's pandas l
 - Data transformation and aggregation to prepare it for analysis.
 - Identifying and resolving data inconsistencies.
 
-The code for data cleaning and wrangling can be found in the `data_cleaning.ipynb` notebook in this repository.
-
 ## Data Visualization with Plotly
 
 To provide a comprehensive analysis, interactive and visually engaging visualizations were created using Plotly. Plotly offers a range of charts and graphs, including line charts, bar plots, pie charts, and heatmaps, to help understand and explore the data effectively.
