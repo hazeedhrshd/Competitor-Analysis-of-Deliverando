@@ -1,4 +1,5 @@
 # Competitor and Growth Analysis for Deliverando in Graz
+![sales_analyst_logo](https://github.com/hazeedhrshd/Competitor-Analysis-of-Deliverando/assets/129052112/b8f4aa50-abde-43fd-a5bc-0f9f3295b8b4)
 
 This repository contains an analysis of competitor and growth trends for Deliverando, a newly opened food delivery company in the city of Graz. The analysis involves data cleaning and wrangling using Python's pandas library and visualizations using Plotly, a powerful Python library for interactive and visually appealing plots. Please note that all data used in this analysis is entirely fictional and anonymous to respect privacy reasons.
 
