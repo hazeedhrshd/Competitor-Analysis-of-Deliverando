@@ -31,7 +31,7 @@ The visualizations in this analysis focus on the following key aspects:
 
 The repository is organized as follows:
 
-- `Deliverado!!!.ipynb`: Jupyter notebook containing the data cleaning and wrangling code using pandas and Plotly visualizations and insights.
+- `Deliverado!!.ipynb`: Jupyter notebook containing the data cleaning and wrangling code using pandas and Plotly visualizations and insights.
 
 ## Usage
 
@@ -43,12 +43,12 @@ To replicate the data cleaning and wrangling process and explore the visualizati
 
 ## License
 
-The data used for this analysis is subject to the respective data sources' license agreements. The code in this repository is available under the MIT License. Please see the `LICENSE` file for more details.
+The data used for this analysis is subject to the respective data sources' license agreements. The code in this repository is available under the MIT License. Please see the LICENSE file for more details.
 
 ## Acknowledgments
 
 I would like to acknowledge the data sources used in this analysis, as well as the developers of pandas and Plotly for providing powerful tools for data manipulation and visualization.
 
-Feel free to contribute to this project by opening issues or submitting pull requests. If you have any questions or feedback, please don't hesitate to contact us.
+Feel free to contribute to this project by opening issues or submitting pull requests. If you have any questions or feedback, please don't hesitate to contact me.
 
 Happy analyzing! 🍔🚀
