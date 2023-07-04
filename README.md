@@ -23,7 +23,7 @@ To provide a comprehensive analysis, interactive and visually engaging visualiza
 
 The visualizations in this analysis focus on the following key aspects:
 
-1. **Competitor Analysis:** Comparing Deliverando's performance with other food delivery services in Graz. This includes metrics such as delivery times, customer ratings, and order volume.
+1. **Competitor Analysis:** Comparing Deliverando's performance with the competitor in Graz. This includes metrics such as location, customer and order volume.
 
 2. **Growth Analysis:** Tracking Deliverando's growth over two months, including order volume trends.
 
