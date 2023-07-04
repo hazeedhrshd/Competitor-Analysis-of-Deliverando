@@ -39,7 +39,7 @@ To replicate the data cleaning and wrangling process and explore the visualizati
 
 1. Clone this repository to your local machine.
 2. Install the required Python libraries by running `pip install pandas plotly`.
-3. Run the `Deliverado!!!.ipynb` notebook to perform data cleaning, wrangling and explore the interactive Plotly visualizations.
+3. Run the `Deliverado!!.ipynb` notebook to perform data cleaning, wrangling and explore the interactive Plotly visualizations.
 
 ## License
 
